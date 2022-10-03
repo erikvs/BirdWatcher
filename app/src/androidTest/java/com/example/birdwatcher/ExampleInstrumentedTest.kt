@@ -1,4 +1,4 @@
-package com.gruppe16.birdwatcher
+package com.example.birdwatcher
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

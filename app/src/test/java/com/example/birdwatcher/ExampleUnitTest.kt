@@ -1,4 +1,4 @@
-package com.gruppe16.birdwatcher
+package com.example.birdwatcher
 
 import org.junit.Test
 

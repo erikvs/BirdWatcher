@@ -1,8 +1,7 @@
-package com.gruppe16.birdwatcher
+package com.example.birdwatcher
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.birdwatcher.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
